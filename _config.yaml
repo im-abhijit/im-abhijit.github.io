@@ -1,4 +1,3 @@
+theme: jekyll-theme-minimal
 title: Abhijit Shankhdhar
-description: Senior Backend Engineer
-google_analytics:
-theme: jekyll-theme-cayman
+description: Reading stack traces for money
