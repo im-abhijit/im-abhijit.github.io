@@ -31,14 +31,3 @@ Follow the build day-by-day: [@your_x_handle](https://x.com/your_x_handle)
 </ul>
 
 ## Build roadmap
-
-- [x] Raw TCP server
-- [x] Non-blocking sockets
-- [ ] epoll event loop
-- [ ] RESP protocol parser
-- [ ] Custom hash table (SET/GET/DEL)
-- [ ] TTL / expiry
-- [ ] AOF persistence
-- [ ] Snapshotting
-- [ ] Pub/Sub
-- [ ] Benchmark vs real Redis
